@@ -35,3 +35,49 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+bin/
+*.cfg
+lib/
+include/
+obj/
+shared/
+.git/
+.vscode/
+.idea/
+*.iml
+*.swp
+
+
+# Python #
+####################
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.pyre/
+.pytype/
+.mypy_cache/
+.pyright/
+
+# Virtual Environments #
+########################
+venv/
+ENV/
+env/
+.venv/
+.env/
+.ENV/
+node_modules/
+# Jupyter Notebook #
+####################
+.ipynb_checkpoints
+# VS Code #
+####################
+.vscode/
+.history/
+# macOS #
+####################
+.DS_Store
+.AppleDouble
+.LSOverride
