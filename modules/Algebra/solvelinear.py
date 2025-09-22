@@ -12,7 +12,7 @@ prefixes = {
     "erorr": "[bold red][!][/bold red]",
     "success": "[bold green][+][/bold green]",
     "input": "[bold blue][>][/bold blue]",
-    "info": "[bold cyan][i][/bold cyan]",
+    "info": "[bold cyan][;][/bold cyan]",
     "question": "[bold yellow][?][/bold yellow]",
     "timestamp": f"[bold magenta][{timestamp}][/bold magenta]",
 }
@@ -32,7 +32,8 @@ class solvelinear(Module):
         title = "General linear equation solver (supports surds, exponents, etc.)"
         author = "Author:  @benjibrown"
         version = "1.1"
-        rprint(f"{prefixes['info']} {title} \n {prefixes['info']} {author} \n {prefixes['info']} Version: {version}")
+        rprint(f"{prefixes['info']} {title} \n{prefixes['info']} {author} \n{prefixes['info']} Version: {version}")
+        print("\n")
         try:
             eq_str = input.ask(f"{prefixes['input']} Enter a linear equation (e.g. 2*x + sqrt(3) = 5 - x)")
             if '=' not in eq_str:
