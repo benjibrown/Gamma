@@ -13,7 +13,7 @@
 - 🔢 **General Math:** Support for arithmetic, algebra, and more.
 
 ---
-
+![showcase](./images/showcase.png)
 ## Installation
 
 > Gamma is not yet released. Installation instructions will be provided soon.
