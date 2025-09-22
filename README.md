@@ -1,7 +1,7 @@
 ![banner](./images/banner.png)
 **Gamma** is a powerful command-line tool for advanced math calculations and graphing. Designed for students, educators, and professionals, Gamma makes it easy to perform integration, differentiation, trigonometric operations, and visualize mathematical functions—all from your terminal.
 
-> 🚧 **Project Status:** Gamma is currently under active development. No releases are available yet. Stay tuned for updates!
+> 🚧 **Project Status:** Gamma is currently under active development. The program is in a "bare-bones" state, with minimal functionality and likely a few bugs. If you find any problems, please submit an issue :)
 
 ---
 
