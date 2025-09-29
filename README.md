@@ -16,7 +16,35 @@
 ![showcase](./images/showcase.png)
 ## Installation
 
-> Gamma is not yet released. Installation instructions will be provided soon.
+### Prerequisites
+- Python 3.x
+- Pip
+- Git
+- A Brain
+
+#### To install first clone the repository:
+```bash
+git clone https://github.com/benjibrown/Gamma.git
+```
+
+Then, install the required packages
+```bash
+pip install -r requirements.txt
+```
+
+You're all set, run the program!
+```bash
+python gamma
+```
+----
+Alternatively, you can run :
+```bash
+chmod +x gamma
+```
+ Now, you will be able to run Gamma with:
+```bash
+./gamma
+```
 
 ---
 
