@@ -1,3 +1,5 @@
 sploitkit
 rich
 tinyscript
+plotext
+numpy
